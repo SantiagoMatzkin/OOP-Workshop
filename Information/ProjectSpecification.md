@@ -1,7 +1,7 @@
 # OOP(E25) Workshop
 **Topic:** Media Library
 
-## Part 0: Introduction
+## Part 0: Introduction for stupid people
 ### Introduction
  In this workshop, you will work in groups on a problem. We will start with a description of what needs to be developed and then go through all the development phases (and most of the curriculum).  
 
@@ -9,8 +9,7 @@
 
 You choose your own group, and you choose where you to want to sit and work **(We will explain it in the next slide)**. but it is advisable not to stray too far from the lecturer or instructor (especially if you want credits on your pointgiving activity).
 
-
-### When
+### Whengit
 Work on the workshop is scheduled for:
   
 - Wednesday, November 19 at 8:15-12:00 in 247 and 136.
