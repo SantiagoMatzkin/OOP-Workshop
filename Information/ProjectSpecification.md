@@ -1,7 +1,7 @@
 # OOP(E25) Workshop
 **Topic:** Media Library
 
-## Part 0: Introduction for stupid people
+## Part 0: Introduction for stupid people 2
 ### Introduction
  In this workshop, you will work in groups on a problem. We will start with a description of what needs to be developed and then go through all the development phases (and most of the curriculum).  
 
