@@ -1,0 +1,5 @@
+C:\Users\alvar\Downloads\DENMARK\OP\Work-Shop\OOP-Workshop\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Downloads\DENMARK\OP\Work-Shop\OOP-Workshop\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\alvar\Downloads\DENMARK\OP\Work-Shop\OOP-Workshop\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Users\alvar\Downloads\DENMARK\OP\Work-Shop\OOP-Workshop\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Downloads\DENMARK\OP\Work-Shop\OOP-Workshop\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
